@@ -7,7 +7,7 @@ This project was generated with [Storybook](https://github.com/storybookjs/story
 
 - [NodeJs](https://nodejs.org/en/download/)
 - [Storybook](https://github.com/storybookjs/storybook)
-- [Yarn for Windows](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable), [Yarn for Mac](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) (recommended)
+- [Yarn for Windows](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) or [Yarn for Mac](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) (Yarn recommended)
 
 ### Running the application locally
 
@@ -21,7 +21,6 @@ After update,
 $ yarn install or npm install
 $ yarn storybook or npm run storybook
 ```
-Use and check  ` ng build ` and ` linter ` before push 
 Please update CHANGELOG.md file after development.
 
 ### Dependencies
